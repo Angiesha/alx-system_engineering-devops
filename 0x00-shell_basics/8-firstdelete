@@ -1,0 +1,2 @@
+rm -r /tmp/betty
+rm tmp/my_first_directory
